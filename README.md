@@ -107,7 +107,7 @@ The comparison shows:
 ## Output Graphs
 
 ### Base Comparison
-![Result 1](result1.png)
+![Result 1](result_1.png)
 
 ### Step Varied — 0.5
 ![Step 0.5](result_when_step_varied(0.5).png)
