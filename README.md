@@ -95,12 +95,10 @@ The comparison shows:
 ---
 
 ## Simulink Model
-
-![Simulink Model](PIDmodel.png)
+![Simulink Model](model/PIDmodel.png)
 
 ### Model with Disturbance
-
-![Model with Disturbance](PID_model_with_disturbance.png)
+![Model with Disturbance](model/PID_model_with_disturbance.png)
 
 ---
 
