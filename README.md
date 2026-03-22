@@ -113,10 +113,10 @@ The comparison shows:
 ![Step 0.5](result_when_step_varied(0.5).png)
 
 ### Step Varied — 2
-![Step 2](result_when_step_varied(2).png)
+![Step 2](result_when_step_varied_(2).png)
 
 ### Step Varied — 5
-![Step 5](result_when_step_varied(5)).png)
+![Step 5](result_when_step_varied(5).png)
 
 ### Kp Varied (Ki=Kd=0)
 ![Kp varied](result_when_Ki=Kd=0_and_Kp_is_varied.png)
