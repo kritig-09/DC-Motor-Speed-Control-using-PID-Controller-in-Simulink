@@ -100,7 +100,7 @@ The comparison shows:
 
 ### Model with Disturbance
 
-![Model with Disturbance](PID model with disturbance.png)
+![Model with Disturbance](PID_model_with_disturbance.png)
 
 ---
 
@@ -110,25 +110,25 @@ The comparison shows:
 ![Result 1](result1.png)
 
 ### Step Varied — 0.5
-![Step 0.5](resultwhenstepvaried(0.5).png)
+![Step 0.5](result_when_step_varied(0.5).png)
 
 ### Step Varied — 2
-![Step 2](result%20when%20step%20varied%20(2).png)
+![Step 2](result_when_step_varied(2).png)
 
 ### Step Varied — 5
-![Step 5](result%20when%20step%20varied(5).png)
+![Step 5](result_when_step_varied(5)).png)
 
 ### Kp Varied (Ki=Kd=0)
-![Kp varied](result%20when%20Ki%3DKd%3D0%20and%20Kp%20is%20varied.png)
+![Kp varied](result_when_Ki=Kd=0_and_Kp_is_varied.png)
 
 ### Ki Varied (Kp fixed, Kd=0)
-![Ki varied](result%20when%20Kp%20constant%20%2C%20Kd%3D0%20and%20Ki%20is%20varied.png)
+![Ki varied](result_when_Kp_constant_Kd=0_and_Ki_is_varied.png)
 
 ### Kd Varied (Kp, Ki fixed)
-![Kd varied](result%20when%20Kp%3DKi%3Dconstant%20and%20Kd%20is%20varied.png)
+![Kd varied](result_when_Kp=Ki=constant_and_Kd_is_varied.png)
 
 ### Disturbance Introduced
-![Disturbance](result%20when%20disturbance%20is%20introduced.png)
+![Disturbance](result_when_disturbance_is_introduced.png)
 
 ---
 
